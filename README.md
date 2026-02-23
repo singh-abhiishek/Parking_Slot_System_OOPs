@@ -75,8 +75,6 @@ If you want to delete compiled `.class` files:
 rm -rf bin/*
 ```
 
-```
-
 ---
 
 ## Fee Structure
