@@ -1,5 +1,5 @@
 
-# Parking Slot Booking System (Java OOP)
+# Parking Slot Booking System (Java OOPs)
 
 ## Features
 - Park Vehicle (Car/Bike)
@@ -15,7 +15,6 @@
 - Inheritance (Car, Bike)
 - Polymorphism (calculateFee)
 - Encapsulation (Private fields)
-- Composition (ParkingLot has ParkingSlots)
 
 ## How to Run
 
@@ -30,4 +29,4 @@
 - Bike: ₹10 per hour
 
 ## Author
-Abhishek Singh - Java OOP Practice Project
+Abhishek Singh Java OOP Practice Project
